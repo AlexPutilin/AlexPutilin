@@ -65,12 +65,16 @@
 <h3 align="left">Let's Connect</h3>
 <p align="left" style="margin-top: 0;">Feel free to reach out:</p>
 <div align="left">
-  <a href="https://www.linkedin.com/in/alexander-putilin-6062b7316/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="bralligator" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <a href="https://www.linkedin.com/in/alexander-putilin-6062b7316/" target="_blank" style="margin-right: 10px;">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="16" height="16" alt="LinkedIn logo" />
+    </a>
+    <span><a href="https://www.linkedin.com/in/alexander-putilin-6062b7316/" target="_blank">alexander-putilin</a></span>
+  </div>
+  <div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="16" height="16" alt="Discord logo" style="margin-right: 10px;" />
+    <span>bralligator</span>
+  </div>
 </div>
 
 ###
