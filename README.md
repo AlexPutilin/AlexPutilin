@@ -67,12 +67,12 @@
 <div align="left">
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <a href="https://www.linkedin.com/in/alexander-putilin-6062b7316/" target="_blank" style="margin-right: 10px;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="16" height="16" alt="LinkedIn logo" />
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="24" height="24" alt="LinkedIn logo" />
     </a>
-    <span><a href="https://www.linkedin.com/in/alexander-putilin-6062b7316/" target="_blank">alexander-putilin</a></span>
+    <span>>alexander-putilin</span>
   </div>
   <div style="display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="16" height="16" alt="Discord logo" style="margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="24" height="24" alt="Discord logo" style="margin-right: 100px;" />
     <span>bralligator</span>
   </div>
 </div>
