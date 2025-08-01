@@ -4,6 +4,7 @@
 <p align="left">I'm currently undergoing training to become a Fullstack Developer, constantly improving my skills and working on practical projects. Welcome to my GitHub profile!</p>
 
 ###
+###
 
 <h3 align="left">Tech Stack</h3>
 <p align="left">You’ll find me working with:</p>
@@ -29,6 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
+###
 ###
 
 <h3 align="left">Exploring Next</h3>
@@ -57,6 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="opengl logo"  />
 </div>
 
+###
 ###
 
 <h3 align="left">Let's Connect</h3>
