@@ -65,11 +65,9 @@
 <h3 align="left">Let's Connect</h3>
 <p align="left" style="margin-top: 0;">Feel free to reach out:</p>
 <div align="left">
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://www.linkedin.com/in/alexander-putilin-6062b7316/" target="_blank" style="margin-right: 10px;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="24" height="24" alt="LinkedIn logo" />
-    </a>
-  </div>
+  <a href="https://www.linkedin.com/in/alexander-putilin-6062b7316/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="LinkedIn logo" />
+  </a>
 </div>
 
 ###
