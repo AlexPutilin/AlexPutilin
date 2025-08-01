@@ -66,7 +66,7 @@
 <p align="left" style="margin-top: 0;">Feel free to reach out:</p>
 <div align="left">
   <a href="https://www.linkedin.com/in/alexander-putilin-6062b7316/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="LinkedIn logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn logo" />
   </a>
 </div>
 
