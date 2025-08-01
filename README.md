@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 <h3 align="left">Introduction</h3>
-<p align="left">I'm currently undergoing training to become a Fullstack Developer, constantly improving my skills and working on practical projects. Welcome to my GitHub profile!</p>
+<p align="left" style="margin-top: 0;">I'm currently undergoing training to become a Fullstack Developer, constantly improving my skills and working on practical projects. Welcome to my GitHub profile!</p>
 
 ###
 ###
 
 <h3 align="left">Tech Stack</h3>
-<p align="left">You’ll find me working with:</p>
+<p align="left" style="margin-top: 0;">You’ll find me working with:</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -34,7 +34,7 @@
 ###
 
 <h3 align="left">Exploring Next</h3>
-<p align="left">On my roadmap for future growth and learning.</p>
+<p align="left" style="margin-top: 0;">On my roadmap for future growth and learning.</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -63,7 +63,7 @@
 ###
 
 <h3 align="left">Let's Connect</h3>
-<p align="left">Feel free to reach out:</p>
+<p align="left" style="margin-top: 0;">Feel free to reach out:</p>
 <div align="left">
   <a href="https://www.linkedin.com/in/alexander-putilin-6062b7316/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
