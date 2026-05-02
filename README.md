@@ -41,9 +41,8 @@ with a growing focus on **tools, automation and interactive applications**.
 
 Moving towards:
 
-* Tools & real applications (not just CRUD apps)
+* Interactive & 3D visualizations
 * Automation & data-driven systems
 * Real-time & event-based architectures
-* Interactive & 3D visualizations
 
 ---
